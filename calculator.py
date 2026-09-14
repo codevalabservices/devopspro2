@@ -19,3 +19,4 @@ else:
     result = "Invalid operator"
 
 print("Result:", result)
+print("thank you for using simple calculator!")
